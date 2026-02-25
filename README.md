@@ -75,10 +75,11 @@ Used functions:
 ---
 
 ## 📂 Repository Structure
-├── Spotify_Dashboard.pbix
-├── Dataset
-├── Screenshots
-└── README.md
+
+-├── Spotify_Dashboard.pbix
+-├── Dataset
+-├── Screenshots
+-└── README.md
 ---
 
 ## 📬 Connect With Me
