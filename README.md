@@ -77,8 +77,11 @@ Used functions:
 ## 📂 Repository Structure
 ---
 ├── Spotify_Dashboard.pbix
+
 ├── Dataset
+
 ├── Screenshots
+
 └── README.md
 
 ---
